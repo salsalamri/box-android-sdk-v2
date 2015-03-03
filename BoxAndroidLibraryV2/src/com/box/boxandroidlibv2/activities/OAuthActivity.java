@@ -1,6 +1,6 @@
 package com.box.boxandroidlibv2.activities;
 
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 
 import android.app.Activity;
 import android.content.Context;

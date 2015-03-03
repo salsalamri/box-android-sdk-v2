@@ -4,8 +4,8 @@ import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.commons.lang.ObjectUtils.Null;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.ObjectUtils.Null;
+import org.apache.commons.lang3.StringUtils;
 import org.apache.http.HttpStatus;
 import org.apache.http.NameValuePair;
 
