@@ -1,6 +1,6 @@
 NOTE: We have released a new version of this SDK
 --------------------------
-This SDK is now deprecated and we encourage you to use the new version, which is available at: [https://github.com/box/box-ios-content-sdk](https://github.com/box/box-android-content-sdk)
+This SDK is now deprecated and we encourage you to use the new version, which is available at: [https://github.com/box/box-android-content-sdk](https://github.com/box/box-android-content-sdk)
 
 
 
